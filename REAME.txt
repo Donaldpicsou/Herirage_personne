@@ -1,0 +1,31 @@
+L'objectif de ce repository est de présenter la réalisation des 
+dérivation (héritage) en utilisant C#. 
+
+Soit les classes suivantes : 
+
+- Une classe Personne qui comporte trois 
+champs privés. Cette classe comporte un constructeur pour permettre 
+d'initialiser les données. Elle comporte également une méthode 
+polymorphe Afficher pour afficher les données de chaque personne.
+
+- Une classe Employé qui dérive de la classe Personne, avec en plus un 
+champ Salaire accompagné de sa propriété, un constructeur et la 
+redéfinition de la méthode Afficher. - Une classe Chef qui dérive de la 
+classe Employé, avec en plus un champ Service accompagné de sa 
+propriété, un constructeur et la redéfinition de la méthode Afficher.
+
+- Une classe Directeur qui dérive de la classe Chef, avec en plus un 
+champ Société accompagné de sa propriété, un constructeur et la 
+redéfinition de la méthode Afficher.
+
+Travail à faire : 
+1. Ecrire les classe Personne, Employé, Chef et 
+Directeur. 
+2.Créez un programme de test qui comporte un tableau de huit 
+personnes avec cinq employés, deux chefs et un directeur (8 références 
+de la classe Personne dans lesquelles ranger 5 instances de la classe 
+Employé, 2 de la classe Chef et 1 de la classe Directeur). Affichez 
+l'ensemble des éléments du tableau à l'aide de for. Affichez l'ensemble 
+des éléments du tableau à l'aide de foreach.
+
+ 

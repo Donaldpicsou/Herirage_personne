@@ -1,0 +1,6 @@
+c:\users\dell\documents\visual studio 2012\Projects\Employees\Employees\bin\Debug\Employees.exe.config
+c:\users\dell\documents\visual studio 2012\Projects\Employees\Employees\obj\Debug\Employees.csprojResolveAssemblyReference.cache
+C:\Users\DELL\Documents\Visual Studio 2012\Projects\Employees\Employees\bin\Debug\Employees.exe
+C:\Users\DELL\Documents\Visual Studio 2012\Projects\Employees\Employees\bin\Debug\Employees.pdb
+C:\Users\DELL\Documents\Visual Studio 2012\Projects\Employees\Employees\obj\Debug\Employees.exe
+C:\Users\DELL\Documents\Visual Studio 2012\Projects\Employees\Employees\obj\Debug\Employees.pdb
